@@ -6,4 +6,5 @@ Une jam Arlind Bullaku nga qyteti i Prishtines.
 
 ## Gjerat qe me pelqejne
 1.Gaming
+
 2.Coding
